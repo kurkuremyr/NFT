@@ -71,7 +71,7 @@ The NFT resource defines the following fields:
 * Metacrafter Jacob Tucker 
 [@metacraftersio](https://twitter.com/metacraftersio)
 
-* Emmanuel T Edmond
+* Akhil M Chirayath
 [Blockchain developer]
 
 ## License
